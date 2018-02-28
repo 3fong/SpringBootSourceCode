@@ -1,0 +1,7 @@
+com\wisely\ui\service\SomeHystrixService.class
+com\wisely\ui\UiApplication.class
+com\wisely\ui\service\PersonService.class
+com\wisely\ui\MyMessageConverter.class
+com\wisely\ui\service\PersonHystrixService.class
+com\wisely\ui\domain\Person.class
+com\wisely\ui\controller\UiController.class
